@@ -1,0 +1,67 @@
+{
+  "translation": {
+    "nav": {
+      "home": "Home",
+      "expertise": "Expertise",
+      "products": "Products",
+      "contact": "Contact"
+    },
+    "hero": {
+      "title": "Innovative Digital Solutions",
+      "subtitle": "Development | Support | Consulting",
+      "cta": "Request Consultation"
+    },
+    "expertise": {
+      "title": "Our Expertise",
+      "consultation": {
+        "title": "Consultation",
+        "description": "Expert consulting services to optimize your business processes"
+      },
+      "development": {
+        "title": "Software Development",
+        "description": "Custom solutions tailored to your specific needs"
+      },
+      "support": {
+        "title": "Technical Support",
+        "description": "24/7 technical assistance to ensure service continuity"
+      },
+      "qa": {
+        "title": "Quality Assurance",
+        "description": "Rigorous testing to ensure application reliability"
+      }
+    },
+    "products": {
+      "title": "Our Products",
+      "learnMore": "Learn More",
+      "gesco": {
+        "title": "GESCO",
+        "description": "Complete enterprise management solution"
+      },
+      "taskBox": {
+        "title": "Task Box",
+        "description": "Collaborative project management platform"
+      },
+      "taskManager": {
+        "title": "Task Manager",
+        "description": "Intelligent task tracking tool"
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "form": {
+        "name": "Name",
+        "email": "Email",
+        "message": "Message",
+        "submit": "Send"
+      }
+    },
+    "footer": {
+      "newsletter": "newsletter",
+      "contact": "contact",
+      "quickLinks": "quick links",
+      "emailInput": "Enter your email",
+      "subscribeBtn": "Subscribe",
+      "copyright": "DataMaster All rights reserved"
+    }
+  }
+}

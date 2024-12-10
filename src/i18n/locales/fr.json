@@ -1,0 +1,67 @@
+{
+  "translation": {
+    "nav": {
+      "home": "Accueil",
+      "expertise": "Expertise",
+      "products": "Produits",
+      "contact": "Contact"
+    },
+    "hero": {
+      "title": "Solutions Numériques Innovantes",
+      "subtitle": "Développement | Support | Consulting",
+      "cta": "Demander une consultation"
+    },
+    "expertise": {
+      "title": "Notre Expertise",
+      "consultation": {
+        "title": "Consultation",
+        "description": "Services de conseil expert pour optimiser vos processus métier"
+      },
+      "development": {
+        "title": "Développement Logiciel",
+        "description": "Solutions sur mesure adaptées à vos besoins spécifiques"
+      },
+      "support": {
+        "title": "Support Technique",
+        "description": "Assistance technique 24/7 pour assurer la continuité de vos services"
+      },
+      "qa": {
+        "title": "Assurance Qualité",
+        "description": "Tests rigoureux pour garantir la fiabilité de vos applications"
+      }
+    },
+    "products": {
+      "title": "Nos Produits",
+      "learnMore": "En savoir plus",
+      "gesco": {
+        "title": "GESCO",
+        "description": "Solution complète de gestion d'entreprise"
+      },
+      "taskBox": {
+        "title": "Task Box",
+        "description": "Plateforme collaborative de gestion de projets"
+      },
+      "taskManager": {
+        "title": "Task Manager",
+        "description": "Outil intelligent de suivi des tâches"
+      }
+    },
+    "contact": {
+      "title": "Contactez-nous",
+      "form": {
+        "name": "Nom",
+        "email": "Email",
+        "message": "Message",
+        "submit": "Envoyer"
+      }
+    },
+    "footer": {
+      "newsletter": "bulletin d'information",
+      "contact": "contact",
+      "quickLinks": "liens rapides",
+      "emailInput": "Entrez votre email",
+      "subscribeBtn": "S'abonner",
+      "copyright": "Tous droits réservés"
+    }
+  }
+}

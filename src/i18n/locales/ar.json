@@ -1,0 +1,67 @@
+{
+  "translation": {
+    "nav": {
+      "home": "الرئيسية",
+      "expertise": "خبراتنا",
+      "products": "منتجاتنا",
+      "contact": "اتصل بنا"
+    },
+    "hero": {
+      "title": "حلول رقمية مبتكرة",
+      "subtitle": "تطوير | دعم | استشارات",
+      "cta": "اطلب استشارة"
+    },
+    "expertise": {
+      "title": "خبراتنا",
+      "consultation": {
+        "title": "استشارات",
+        "description": "خدمات استشارية متخصصة لتحسين عملياتك التجارية"
+      },
+      "development": {
+        "title": "تطوير البرمجيات",
+        "description": "حلول مخصصة تناسب احتياجاتك المحددة"
+      },
+      "support": {
+        "title": "الدعم الفني",
+        "description": "دعم فني على مدار الساعة لضمان استمرارية خدماتك"
+      },
+      "qa": {
+        "title": "ضمان الجودة",
+        "description": "اختبارات دقيقة لضمان موثوقية التطبيقات"
+      }
+    },
+    "products": {
+      "title": "منتجاتنا",
+      "learnMore": "اعرف المزيد",
+      "gesco": {
+        "title": "جيسكو",
+        "description": "حل متكامل لإدارة المؤسسات"
+      },
+      "taskBox": {
+        "title": "تاسك بوكس",
+        "description": "منصة تعاونية لإدارة المشاريع"
+      },
+      "taskManager": {
+        "title": "تاسك مانجر",
+        "description": "أداة ذكية لتتبع المهام"
+      }
+    },
+    "contact": {
+      "title": "اتصل بنا",
+      "form": {
+        "name": "الاسم",
+        "email": "البريد الإلكتروني",
+        "message": "الرسالة",
+        "submit": "إرسال"
+      }
+    },
+    "footer": {
+      "newsletter": "النشرة الإخبارية",
+      "contact": "اتصل بنا",
+      "quickLinks": "روابط سريعة",
+      "emailInput": "أدخل بريدك الإلكتروني",
+      "subscribeBtn": "اشترك",
+      "copyright": "جميع الحقوق محفوظة"
+    }
+  }
+}
